@@ -1,0 +1,10 @@
+print("F_0 =", 0)
+print("F_1 =", 1)
+print("F_2 =", 0+1)
+print("F_3 =", 1+1)
+print("F_4 =", 1+2)
+print("F_4/F_3 =", 3/2)
+print("F_5 =", 2+3)
+# F_4/F_3   F_5
+print("F_5/F_4 =", 5/3)
+print("F_6 =", 3+5)
